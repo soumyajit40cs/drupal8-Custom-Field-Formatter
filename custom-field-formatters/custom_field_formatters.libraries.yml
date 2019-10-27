@@ -1,0 +1,5 @@
+custom_field_formatters.firstletter:
+  # Add css file.
+  css:
+    component:
+      css/custom.css: {}            
